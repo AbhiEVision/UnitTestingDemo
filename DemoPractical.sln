@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoPractical.DataAccessLay
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoPractical.Domain", "DemoPractical.Domain\DemoPractical.Domain.csproj", "{6D35A54E-B0BB-40E3-8CCD-DC29A2886B37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPractical.XUnitTest", "DemoPractical.XUnitTest\DemoPractical.XUnitTest.csproj", "{EB428F2C-E90D-4FD0-8127-35B69F72870F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPractical.NUnitTest", "DemoPractical.NUnitTest\DemoPractical.NUnitTest.csproj", "{55835C47-5A08-402C-BFCE-668060B50AEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6D35A54E-B0BB-40E3-8CCD-DC29A2886B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D35A54E-B0BB-40E3-8CCD-DC29A2886B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D35A54E-B0BB-40E3-8CCD-DC29A2886B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB428F2C-E90D-4FD0-8127-35B69F72870F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB428F2C-E90D-4FD0-8127-35B69F72870F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB428F2C-E90D-4FD0-8127-35B69F72870F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB428F2C-E90D-4FD0-8127-35B69F72870F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55835C47-5A08-402C-BFCE-668060B50AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55835C47-5A08-402C-BFCE-668060B50AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55835C47-5A08-402C-BFCE-668060B50AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55835C47-5A08-402C-BFCE-668060B50AEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
